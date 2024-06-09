@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\LaptopController;
 use GuzzleHttp\Client;
 use Illuminate\Support\Facades\Route;
 
@@ -12,36 +13,32 @@ Route::get('/about', function () {
     return view('about');
 })->name('about');
 
-Route::get('/collections', function () {
-    $client = new Client();
-    $response = $client->request('GET', 'https://api.unsplash.com/search/photos', [
-        'query' => [
-            'query' => 'laptops',
-            'client_id' => env('UNSPLASH_ACCESS_KEY'),
-            'per_page' => 30,
-            'page' => 1,
-        ],
-    ]);
+Route::resource('laptop', LaptopController::class)->only('index', 'show');
 
-    $photos = json_decode($response->getBody()->getContents(), true);
+// Route::get('/collections', function () {
+//     $client = new Client();
+//     $response = $client->request('GET', 'https://api.unsplash.com/search/photos', [
+//         'query' => [
+//             'query' => 'laptops',
+//             'client_id' => env('UNSPLASH_ACCESS_KEY'),
+//             'per_page' => 30,
+//             'page' => 1,
+//         ],
+//     ]);
 
-    $filteredPhotos = array_map(function ($photo) {
-        return [
-            'full_url' => $photo['urls']['full'],
-            'description' => $photo['description'],
-            'alt_description' => $photo['alt_description']
-        ];
-    }, $photos['results']);
+//     $photos = json_decode($response->getBody()->getContents(), true);
 
-    return response()->json($filteredPhotos);
-});
+//     $filteredPhotos = array_filter($photos['results'], function ($photo) {
+//         return $photo['width'] > $photo['height'];
+//     });
 
-Route::get('/blog', function () {
-    return view('blog');
-})->name('blog');
+//     $formattedPhotos = array_map(function ($photo) {
+//         return [
+//             'full_url' => $photo['urls']['full'],
+//             'description' => $photo['description'],
+//             'alt_description' => $photo['alt_description']
+//         ];
+//     }, $filteredPhotos);
 
-Route::get('/blogdetail', function () {
-    return view('blog-details');
-})->name('blogdetail');
-
-?>
+//     return response()->json($formattedPhotos);
+// });

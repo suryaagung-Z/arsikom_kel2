@@ -10,11 +10,13 @@
 
     <title>@yield('title')</title>
     @include('component.css')
+
+    @yield('style')
 </head>
 
 <body>
     @if(Request::is('/'))
-        @include('component.header')
+    @include('component.header')
     @endif
 
     @include('component.navbar')

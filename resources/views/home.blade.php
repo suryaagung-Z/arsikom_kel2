@@ -2,6 +2,9 @@
 
 @section('title', 'Home')
 
+@section('style')
+@endsection
+
 @section('main')
 <div class="container">
   <div class="row overflow-hidden">

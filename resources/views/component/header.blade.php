@@ -25,7 +25,7 @@
 </div>
 
 <div class="fables-header fables-after-overlay overlay-lighter index-traingle bg-rules d-flex flex-column justify-content-center"
-    style="background-image: url(assets/custom/images/index-background.png);">
+    style="background-image: url(/assets/custom/images/index-background.png);">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-lg-7 mr-auto index-carousel">

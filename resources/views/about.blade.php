@@ -2,9 +2,12 @@
 
 @section('title', 'About')
 
+@section('style')
+@endsection
+
 @section('main')
 <div class="fables-team">
-  <div class="row wow fadeInDown">
+  <div class="row wow fadeInDown mx-0">
     <div class="col-12 text-center mt- mt-md-5">
       <h3
         class="fables-about-top-head fables-forth-text-color font-15 semi-font d-inline-block bg-white position-relative">
@@ -20,7 +23,7 @@
     </div>
   </div>
 
-  <div class="row">
+  <div class="row mx-0">
     <div class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
       <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
         <img class="img-fluid" src="assets/custom/images/team1-1.jpg" alt="Card image cap">
