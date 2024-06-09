@@ -6,52 +6,19 @@
 <div class="container">
   <div class="row overflow-hidden">
     <div class="col-12">
-      <h2 class="font-35 font-weight-bold text-center fables-main-text-color my-4 my-lg-5">Latest News</h2>
+      <h2 class="font-35 font-weight-bold text-center fables-main-text-color my-4 my-lg-5">Latest Laptop</h2>
     </div>
     <div class="col-12 col-md-4 mb-4 mb-lg-5 wow bounceInLeft" data-wow-delay=".4s" data-wow-duration="1.5s">
       <div class="image-container translate-effect-right">
         <a href="/blogdetail"><img src="assets/custom/images/cat-larg4.jpg" alt=""></a>
       </div>
       <h2 class="font-18 semi-font font-18  mt-3"><a href="/blogdetail"
-          class="fables-main-text-color fables-second-hover-color">Getting to Another Level of Design</a></h2>
-      <p class="fables-fifth-text-color font-13 my-1">09 November, 2018</p>
+          class="fables-main-text-color fables-second-hover-color">LENOVO IdeaPad IP330-15ICH</a></h2>
       <p class="fables-forth-text-color font-14">
-        When you need your company to have a new website or if you venture on updating your old webpage with a new look
-        and functionality. the choices are versatile Assuming that you will goWhen you need your company to have a new
-        website or if you venture on updating your old webpage with a new look and functionality.
+        Lenovo IdeaPad IP330-15ICH adalah laptop yang dirancang untuk memberikan kinerja yang dapat diandalkan.
       </p>
       <a href="/blogdetail" class="btn fables-main-text-color fables-second-hover-color p-0 underline mt-2">Read
         More</a>
-
-    </div>
-    <div class="col-12 col-md-4 mb-4 mb-lg-5 wow bounceInLeft" data-wow-delay=".8s" data-wow-duration="1.5s">
-      <div class="image-container translate-effect-right">
-        <a href="#"><img src="assets/custom/images/cat-larg5.jpg" alt=""></a>
-      </div>
-      <h2 class="font-18 semi-font font-18  mt-3"><a href="#"
-          class="fables-main-text-color fables-second-hover-color">Getting to Another Level of Design</a></h2>
-      <p class="fables-fifth-text-color font-13 my-1">09 November, 2018</p>
-      <p class="fables-forth-text-color font-14">
-        When you need your company to have a new website or if you venture on updating your old webpage with a new look
-        and functionality. the choices are versatile Assuming that you will goWhen you need your company to have a new
-        website or if you venture on updating your old webpage with a new look and functionality.
-      </p>
-      <a href="" class="btn fables-main-text-color fables-second-hover-color p-0 underline mt-2">Read More</a>
-
-    </div>
-    <div class="col-12 col-md-4 mb-4 mb-lg-5 wow bounceInLeft" data-wow-delay="1.2s" data-wow-duration="1.5s">
-      <div class="image-container translate-effect-right">
-        <a href="#"><img src="assets/custom/images/cat-larg6.jpg" alt=""></a>
-      </div>
-      <h2 class="font-18 semi-font font-18  mt-3"><a href="#"
-          class="fables-main-text-color fables-second-hover-color">Getting to Another Level of Design</a></h2>
-      <p class="fables-fifth-text-color font-13 my-1">09 November, 2018</p>
-      <p class="fables-forth-text-color font-14">
-        When you need your company to have a new website or if you venture on updating your old webpage with a new look
-        and functionality. the choices are versatile Assuming that you will goWhen you need your company to have a new
-        website or if you venture on updating your old webpage with a new look and functionality.
-      </p>
-      <a href="" class="btn fables-main-text-color fables-second-hover-color p-0 underline mt-2">Read More</a>
 
     </div>
   </div>
@@ -209,14 +176,14 @@
 
       <div class="webDesign col-sm-6 col-md-3 mb-2">
         <div class="filter-img-block position-relative image-container translate-effect-right">
-          <img src="assets/custom/images/index-testimonial5.jpg" alt="image" class="w-100">
+          <img src="assets/custom/images/index-testimonial5.png" alt="image" class="w-100">
           <div class="img-filter-overlay fables-main-color-transparent row m-0">
           </div>
         </div>
       </div>
       <div class="webDesign col-sm-6 col-md-3 mb-2">
         <div class="filter-img-block position-relative image-container translate-effect-right">
-          <img src="assets/custom/images/index-testimonial5.jpg" alt="image" class="w-100">
+          <img src="assets/custom/images/index-testimonial5.png" alt="image" class="w-100">
           <div class="img-filter-overlay fables-main-color-transparent row m-0">
           </div>
         </div>

@@ -12,9 +12,10 @@
     @include('component.css')
 </head>
 
-
 <body>
-    @include('component.header')
+    @if(Request::is('/'))
+        @include('component.header')
+    @endif
 
     @include('component.navbar')
 
