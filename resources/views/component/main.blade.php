@@ -8,7 +8,7 @@
     <meta name="author" content="Enterprise Development">
     <link rel="icon" href="/assets/img/logo/laptop.png">
 
-    <title>SpecFinder - @yield('title')</title>
+    <title>Spec Finder - @yield('title')</title>
     @include('component.css')
 
     @yield('style')
