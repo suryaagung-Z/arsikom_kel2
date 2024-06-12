@@ -1,6 +1,6 @@
 @extends('component.main')
 
-@section('title', 'Detail - '.$laptop['name'])
+@section('title', 'Laptop ('.$laptop['name'].')')
 
 @section('style')
 @endsection

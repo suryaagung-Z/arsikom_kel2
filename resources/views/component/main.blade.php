@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Lupdate">
     <meta name="author" content="Enterprise Development">
-    <link rel="shortcut icon" href="assets/custom/images/shortcut.png">
+    <link rel="icon" href="/assets/img/logo/laptop.png">
 
-    <title>@yield('title')</title>
+    <title>SpecFinder - @yield('title')</title>
     @include('component.css')
 
     @yield('style')
