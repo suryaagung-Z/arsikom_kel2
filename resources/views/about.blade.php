@@ -26,85 +26,45 @@
   <div class="row mx-0">
     <div class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
       <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
-        <img class="img-fluid" src="assets/custom/images/team1-1.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5><a href="#" class="team-name white-color white-color-hover">JOHN MARTIN</a></h5>
-          <p class="fables-team-pos mt-2 mb-3 italic">Programmer</p>
-          <ul class="nav fables-team-social-links">
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconlinkedin-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-icontwitter-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconinstagram-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-          </ul>
+        <div class="team-member">
+          <span class="team-name">Surya Agung</span>
         </div>
       </div>
     </div>
+  
     <div class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
       <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
-        <img class="img-fluid" src="assets/custom/images/team1-2.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5><a href="#" class="team-name white-color white-color-hover">JOHN MARTIN</a></h5>
-          <p class="fables-team-pos mt-2 mb-3 italic">Programmer</p>
-          <ul class="nav fables-team-social-links">
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconlinkedin-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-icontwitter-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconinstagram-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-          </ul>
+        <div class="team-member">
+          <span class="team-name">Bima Julian Mahardhika</span>
         </div>
       </div>
     </div>
+  
     <div class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
       <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
-        <img class="img-fluid" src="assets/custom/images/team1-3.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5><a href="#" class="team-name white-color white-color-hover">JOHN MARTIN</a></h5>
-          <p class="fables-team-pos mt-2 mb-3 italic">Programmer</p>
-          <ul class="nav fables-team-social-links">
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconlinkedin-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-icontwitter-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconinstagram-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-          </ul>
+        <div class="team-member">
+          <span class="team-name">Rajhaga Jevanya Meliala</span>
         </div>
       </div>
     </div>
+  
     <div class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
       <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
-        <img class="img-fluid" src="assets/custom/images/team1-4.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5><a href="#" class="team-name white-color white-color-hover">JOHN MARTIN</a></h5>
-          <p class="fables-team-pos mt-2 mb-3 italic">Programmer</p>
-          <ul class="nav fables-team-social-links">
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconlinkedin-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-icontwitter-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-            <li><a href="#" target="_blank"><span
-                  class="fables-iconinstagram-icon fables-second-text-color fables-fifth-border-color fables-team-social-icon"></span></a>
-            </li>
-          </ul>
+        <div class="team-member">
+          <span class="team-name">Dini Nurul Azizah</span>
+        </div>
+      </div>
+    </div>
+    <div style= "padding: 10px;"class="col-6 col-md-3 mb-4 mb-lg-0 wow fadeInDown" data-wow-delay=".3s">
+      <div class="card fables-team-block fables-team-data-hover fables-second-border-color">
+        <div class="team-member">
+          <span class="team-name">Nabil Malik Al Hapid</span>
         </div>
       </div>
     </div>
   </div>
+  
+  
 
 </div>
 <div class="owl-carousel owl-theme fables-carousel-border mt-0 mb-4 my-md-5 carousel-items-6 dots-0">
